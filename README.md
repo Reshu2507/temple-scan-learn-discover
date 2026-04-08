@@ -11,4 +11,4 @@ Temple Scan Learn Discover is an augmented reality (AR) application that allows 
 3. AR content is displayed
 
 ## Note
-This project was developed as part of academic work. Code updates will be added progressively.
+This project was developed as part of academic work. 
